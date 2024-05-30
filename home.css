@@ -1,0 +1,99 @@
+.navbar
+{
+    height: 80px;
+    background-color: red;
+}
+.carousel-item img{
+    height: 640px;
+    width: 190px;
+}
+.container
+{
+    height: 299px;
+    width: 350px;
+    border: 1px solid black;
+    display: block;
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+  
+  
+   
+}
+.boxes
+{
+    display: flex;
+    margin-left: 0px;
+    justify-content:space-evenly;
+}
+.boxes1
+{
+    display: flex;
+    margin-left: 0px;
+    justify-content: space-evenly;
+}
+.allbox
+{
+    background-image: url(./crime_images/crime7.jpg.jpg);
+    opacity: .9;
+}
+#box1
+{
+    border: 2px solid black;
+    display: block;
+    /* margin-left: 256px; */
+    padding: 34px;
+    margin: 33px;
+    border-radius: 25px;
+    background-color: #f7eee9;
+}
+#box2
+{
+    border: 2px solid black;
+    display: block;
+    /* margin-left: 256px; */
+    padding: 34px;
+    margin: 33px;
+    border-radius: 25px;
+    background-color: #e6c7b5;
+}
+#box3
+{
+    border: 2px solid black;
+    display: block;
+    /* margin-left: 256px; */
+    padding: 34px;
+    margin: 33px;
+    border-radius: 25px;
+    background-color: #e6c7b5;
+}
+#box4
+{
+    border: 2px solid black;
+    display: block;
+    /* margin-left: 256px; */
+    padding: 34px;
+    margin: 33px;
+    border-radius: 25px;
+    background-color: #e6c7b5;
+}
+#box5
+{
+    border: 2px solid black;
+    display: block;
+    /* margin-left: 256px; */
+    padding: 34px;
+    margin: 33px;
+    border-radius: 25px;
+    background-color: #e6c7b5;
+}
+#box6
+{
+    border: 2px solid black;
+    display: block;
+    /* margin-left: 256px; */
+    padding: 34px;
+    margin: 33px;
+    border-radius: 25px;
+    background-color: #e6c7b5;
+}

@@ -1,0 +1,4 @@
+in htdocs
+http://localhost:80/xyz.php
+http://localhost/xyz.php
+run the code
